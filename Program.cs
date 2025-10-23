@@ -277,5 +277,6 @@ namespace _10laba_dz_isrpo_gorishny
                 new Student("Михаил ДЖАМБА", 17, "ЭСП-69")
             };
         }
+
     }
 }
